@@ -3,7 +3,7 @@
 ### App Description
 An app that changes color and text!
 
-### App Walk-though
+### App Walk-through
 ![](https://i.imgur.com/BJJ3kSj.gif)
 
 
